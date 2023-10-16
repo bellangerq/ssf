@@ -1,9 +1,19 @@
 :root {
   --white: #ffffff;
+  --blue: rgb(41, 128, 185);
 }
 
 body {
   font-family: sans-serif;
+}
+
+*:focus {
+  outline: 2px solid var(--blue);
+}
+
+*::selection {
+  background-color: var(--blue);
+  color: var(--white);
 }
 
 h1,

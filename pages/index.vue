@@ -30,7 +30,7 @@ import Card from "~/components/Card.vue";
   gap: 1rem;
 }
 
-@media (max-width: 62.5rem) {
+@media (max-width: 50rem) {
   .article-list {
     grid-template-columns: 1fr;
   }

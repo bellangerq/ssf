@@ -22,17 +22,19 @@ defineProps<{
 <style scoped>
 .card {
   list-style-type: none;
-  aspect-ratio: 16/9;
   display: grid;
   grid-template-rows: 1fr auto;
   gap: 1rem;
-  padding: 2rem;
+  padding: 10rem 2rem 2rem;
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     var(--cover);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  min-height: 100%;
+}
+
+.card:hover {
+  text-decoration: underline;
 }
 
 .card-title {
@@ -46,8 +48,7 @@ defineProps<{
   text-decoration: none;
 }
 
-.card-link:hover,
-.card-link:focus {
+.card-link:hover {
   text-decoration: underline;
 }
 
@@ -55,5 +56,12 @@ defineProps<{
   content: "";
   position: absolute;
   inset: 0;
+}
+
+@media (max-width: 62.5rem) {
+  .card-title {
+    font-size: 1.5rem;
+    max-width: none;
+  }
 }
 </style>

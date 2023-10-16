@@ -55,5 +55,13 @@
   .banner-logo {
     width: 4rem;
   }
+
+  .banner-title {
+    font-size: 2rem;
+  }
+
+  .banner-description {
+    font-size: 1.2rem;
+  }
 }
 </style>

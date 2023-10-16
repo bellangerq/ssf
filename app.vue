@@ -4,7 +4,5 @@ import "~/styles/main.css";
 </script>
 
 <template>
-  <div>
-    <NuxtPage />
-  </div>
+  <NuxtPage />
 </template>

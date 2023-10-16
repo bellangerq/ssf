@@ -6,7 +6,6 @@ import Card from "~/components/Card.vue";
 <template>
   <Header />
   <main>
-    <h1>Semelles sans frontières</h1>
     <ul class="article-list">
       <ContentList v-slot="{ list }">
         <Card

@@ -1,10 +1,10 @@
-<script>
-import Header from "~/components/Header.vue";
+<script lang="ts" setup>
+import HomeHero from "~/components/HomeHero.vue";
 import Card from "~/components/Card.vue";
 </script>
 
 <template>
-  <Header />
+  <HomeHero />
   <main>
     <ul class="article-list">
       <ContentList v-slot="{ list }">

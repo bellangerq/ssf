@@ -1,18 +1,39 @@
-<template>
-  <h1>Semelles sans frontières</h1>
+<script>
+import Header from "~/components/Header.vue";
+import Card from "~/components/Card.vue";
+</script>
 
+<template>
+  <Header />
   <main>
-    <ul>
+    <h1>Semelles sans frontières</h1>
+    <ul class="article-list">
       <ContentList v-slot="{ list }">
-        <li v-for="article in list" :key="article._path">
-          <NuxtLink :to="article._path">
-            <h2>{{ article.title }}</h2>
-          </NuxtLink>
-          <p>{{ article.subtitle }}</p>
-          <time :datetime="article.date">{{ article.date }}</time>
-          <p>Auteur : {{ article.author }}</p>
-        </li>
+        <Card
+          v-for="article in list"
+          :key="article._path"
+          :title="article.title"
+          :slug="article._path"
+          :author="article.author"
+          :date="article.date"
+          :cover="article.cover"
+        />
       </ContentList>
     </ul>
   </main>
 </template>
+
+<style scoped>
+.article-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 0;
+  gap: 1rem;
+}
+
+@media (max-width: 62.5rem) {
+  .article-list {
+    grid-template-columns: 1fr;
+  }
+}
+</style>

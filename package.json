@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@nuxt/content": "^2.8.5",
+    "@nuxt/devtools": "^1.0.0-beta.2",
     "nuxt": "^3.7.4"
   }
 }

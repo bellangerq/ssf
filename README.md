@@ -8,7 +8,7 @@ Website for **Semelles sans frontières** stories.
 - [x] Style post content
 - [x] Create multiple photos component
 - [x] Double check articles HTML
-- [ ] Add prev/next links
+- [x] Add prev/next links
 
 ## Development
 

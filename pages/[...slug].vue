@@ -1,5 +1,7 @@
 <script lang="ts" setup>
 import PostHero from "/components/PostHero.vue";
+
+const { prev, next } = useContent();
 </script>
 
 <template>
@@ -13,9 +15,56 @@ import PostHero from "/components/PostHero.vue";
     />
     <ContentRenderer tag="main" class="post-body" :value="doc" />
   </ContentDoc>
+
+  <ul class="navigation">
+    <li class="navigation-item">
+      <NuxtLink v-if="prev" :to="prev._path" class="navigation-link">
+        &larr; <strong>{{ prev.title }}</strong>
+      </NuxtLink>
+    </li>
+    <li class="navigation-item">
+      <NuxtLink v-if="next" :to="next._path" class="navigation-link">
+        <strong>{{ next.title }}</strong> &rarr;
+      </NuxtLink>
+    </li>
+  </ul>
 </template>
 
 <style scoped>
+.navigation {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+  padding: 0;
+}
+
+.navigation-item {
+  display: flex;
+  align-items: stretch;
+  justify-content: stretch;
+  list-style-type: none;
+}
+
+.navigation-link {
+  color: var(--white);
+  background: var(--blue);
+  padding: 2rem;
+  flex-basis: 100%;
+  font-size: 1.4rem;
+}
+
+.navigation-link:hover {
+  text-decoration: none;
+}
+
+.navigation-link:focus {
+  outline-offset: 2px;
+}
+
+.navigation-item:last-of-type .navigation-link {
+  text-align: right;
+}
+
 .post-body {
   max-width: 44rem;
   margin: 4rem auto;

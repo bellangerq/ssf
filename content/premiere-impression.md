@@ -1,6 +1,6 @@
 ---
 title: "Première impression"
-subtitle: "Seulement 10 jours et tant de choses à raconter…"
+description: "Seulement 10 jours et tant de choses à raconter…"
 cover: https://cdn-images-1.medium.com/max/800/1*qBOnCG4uNqa-QRl618aB9Q.jpeg
 date: 2017-01-26
 author: "quentin"
@@ -34,6 +34,7 @@ En tout cas, on a déjà pu apprendre quelques bonnes pratiques en stop et essay
 
 Bref une expérience du stop qui va s’améliorer avec le temps, beaucoup de déception mais on est toujours là pour trouver un moyen de relativiser 😃
 
+::gallery{caption="Par chance, on a pas encore eu de nom de ville interminable…"}
 ![](https://cdn-images-1.medium.com/max/600/1*PAxQMdFg0cih69pzRAhkrg.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/800/1*N9aTIOS55YT3xHUWdnYXJA.jpeg)
@@ -41,8 +42,7 @@ Bref une expérience du stop qui va s’améliorer avec le temps, beaucoup de d�
 ![](https://cdn-images-1.medium.com/max/600/1*oOYV4AvJ3S8HB-Bf1iwEGw.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/600/1*J0vYrFkhbDayiTqD73xDGA.jpeg)
-
-Par chance, on a pas encore eu de nom de ville interminable…
+::
 
 ## Nos hébergements
 
@@ -56,13 +56,13 @@ Pour que les échanges fonctionnent au mieux, chacun créé son profil en rensei
 
 C’est un super atout pendant un voyage en itinérance comme le nôtre, (_nous l’utilisons souvent_). C’est une bonne manière de recontrer des gens et de nouer des relations tout en découvrant des modes de vie et visiter plein de villes. Par contre il faut s’y prendre légèrement à l’avance pour contacter un hôte afin de s’assurer d’avoir un hébergement à temps.
 
+::gallery{caption="Big up à Carmen, Julien et Annika !"}
 ![](https://cdn-images-1.medium.com/max/400/1*BrcJAzTGfhL3ZK3n6E8iFg.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/400/1*hUj-QFRWDXeXuF1mdXoByA.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/400/1*SgodEs-JaYzWd2xqxladJw.jpeg)
-
-Big up à Carmen, Julien et Annika !
+::
 
 **Les amis de nos amis sont nos amis**
 
@@ -78,17 +78,17 @@ Clairement avoir des contacts d’amis nous a bien aidé depuis le début du voy
 
 > Déjà une semaine et demi que nous sommes partis en stop de Blois. Ce moyen de transport facilite les rencontres et nous apporte toujours de l’improbable dans notre voyage. Chaque jour est un challenge et nous commençons à y prendre goût. De belles rencontres mais bien d’autres à venir. Tellement hâte de voir ce qui nous attend là-haut. **Florian**
 
+::gallery{caption="Les fameuses bières de Liège et les 374 marches de la montagne de Bueren"}
 ![](https://cdn-images-1.medium.com/max/600/1*DpoS1QSkFpkUFJstyPhI6g.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/600/1*ZMVOj_u2iMspldaHU8wF6g.jpeg)
+::
 
-Les fameuses bières de Liège et les 374 marches de la montagne de Bueren
-
+::gallery{caption="Le port de Hambourg et petit pique-nique avant Brême"}
 ![](https://cdn-images-1.medium.com/max/600/1*zy2ZiTU5y_9cV7FGM2XvAQ.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/600/1*GcDmSzA0R22bixvgL8LScg.jpeg)
-
-Le port de Hambourg et petit pique-nique avant Brême
+::
 
 ---
 
@@ -96,7 +96,7 @@ Pour ces premiers 10 jours de voyage, nous tenions à remercier les amis pour le
 
 Et pour rappel, voici notre parcours depuis le début de l’aventure.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1LgEcJ9IDXbzOeFkndmmcSyjn7U4&amp;hl=en_US" width="525" height="394" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1LgEcJ9IDXbzOeFkndmmcSyjn7U4&amp;hl=en_US" width="525" height="500" frameborder="0" scrolling="no"></iframe>
 
 **A bientôt pour la prochaine grosse étape : la Norvège** 🇳🇴
 

@@ -7,12 +7,17 @@ import Card from "~/components/Card.vue";
   <HomeHero />
   <main>
     <ul class="article-list">
-      <ContentList v-slot="{ list }">
+      <ContentList
+        v-slot="{ list }"
+        :query="{
+          sort: [{ date: 1 }],
+        }"
+      >
         <Card
           v-for="article in list"
           :key="article._path"
-          :title="article.title"
-          :slug="article._path"
+          :title="article.title!"
+          :slug="article._path!"
           :author="article.author"
           :date="article.date"
           :cover="article.cover"

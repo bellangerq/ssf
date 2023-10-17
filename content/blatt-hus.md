@@ -1,6 +1,6 @@
 ---
 title: "Blått hus 🏡"
-subtitle: "Expérience avec notre première famille d’accueil en Workaway"
+description: "Expérience avec notre première famille d’accueil en Workaway"
 cover: https://cdn-images-1.medium.com/max/1200/1*8amsdgFT-oRw7xPen84Iqg.jpeg
 date: 2017-02-21
 author: "quentin"
@@ -16,7 +16,7 @@ Nous nous sommes donc retrouvés avec Zsuzsanna, une hongroise, et 2 autres fran
 
 ![](https://cdn-images-1.medium.com/max/800/1*uDMbLdQxYI6am51kyKEcGg.jpeg)
 
-Janis et la Maison Bleue
+_Janis et la Maison Bleue_
 
 ## Un voyage dans le temps
 
@@ -24,13 +24,13 @@ C’est au bout d’un fjord à la rencontre des montagnes et de l’océan qu�
 
 Et le style de vie étant rudimentaire, le travail ne l’est pas moins ! Il varie énormément en fonction de ce qu’offrent la saison et la météo ainsi que des besoins des hôtes. Au programme des ces 15 jours en période hivernale, la tâche principale était de nettoyer les quelques centaines de mètres carrés de terre autour de la maison. Ce qui signifiait couper (_beaucoup_) de bois, ramasser les branches qui traînent, refaire une beauté au jardin pour le printemps et débroussailler les herbes hautes et mortes, souvent envahissantes. Le tout finissant dans un grand feu de joie au bord du fjord.
 
+::gallery{caption="Missions du quotidien"}
 ![](https://cdn-images-1.medium.com/max/400/1*NMCg2puCxWmKQYMSUZ37rQ.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/400/1*mIY5CWMrhG5HHsGbGtqo7A.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/400/1*JHN-kqdWf4C5eOGtG7gzEQ.jpeg)
-
-Missions du quotidien
+::
 
 Le petit bonus : la pêche ! John étant un ancien marin et pêcheur, nous avons eu droit à la mise en place d’un filet de pêche d’une bonne centaine de mètres à travers tout le fjord. Mais la mauvaise nouvelle, c’est que le lendemain : impossible de remettre la main sur le filet et ce qu’il contenait ! L’explication la plus probable serait qu’un monstre marin (_du style un flétan d’environ 300kg_) l’aurait emporté dans son élan et déplacé assez loin. Au final, après plusieurs expéditions à bord de la barque dans tout le fjord, on aura réussi ni à retrouver le fameux filet ni à goûter son contenu. Heureusement qu’il restait du requin de la semaine passée dans le congel :)
 
@@ -40,11 +40,13 @@ En tout cas, tout ça changeait de nos quotidiens ! Et l’avantage (_c’est u
 
 Bien qu’on ne soit pas encore arrivé à la Norvège du nord et ses paysages somptueux, l’endroit était tout autant magnifique à observer. Le croisement entre différentes natures (_l’océan, le fjord, la montagne…_) nous offrait des spectacles et des points de vue superbes. Le simple fait de se réveiller le matin et d’observer par la fenêtre le fjord et son manteau matinal nous donnait la chair de poule.
 
+::gallery
 ![](https://cdn-images-1.medium.com/max/400/1*8iWOZs8yM4y7Q1Ueqjgu3w.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/400/1*BqYABy7PAiJULc2knIN7Uw.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/400/1*IX-c_14Lb7knsX0erOSE4A.jpeg)
+::
 
 Evidemment, nous avons profité de cet instant au coeur de la nature pour aller explorer les environs avec notamment une randonnée en haut de la montagne surplombant tout le fjord et avec une vue imprenable sur l’océan. Parfois nous restions assis là pendant plusieurs minutes, à regarder fixement l’horizon et en écoutant le bruit du vent et des quelques grands corbeaux qui volaient au-dessus de nous.
 
@@ -52,13 +54,13 @@ Chaque soir nous prions pour assister au spectacle d’une aurore boréale (_qui
 
 Le fjord, où les falaises plongent, est un lieu parfait pour qui veut aller à la rencontre de la faune sauvage. Le roi incontesté des lieux est bel et bien le grand aigle de mer ou pygargue à queue blanche. Habitant permanent des côtes norvégiennes. C’est sur les falaises inaccessibles qu’il niche et prospecte dans les fjords pour y pêcher un poisson trop curieux ou un oiseau d’eau.
 
+::gallery{caption="Pour sûr, il ne passe pas inaperçu avec ses 2,40 m d’envergure"}
 ![](https://cdn-images-1.medium.com/max/400/1*rSeOa9KKdnZOiOi0-GJcPA.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/400/1*wsbBozrdoQ6-YsPzjsuuKA.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/600/1*t5dyeN84BkfksgJZaDDxRg.jpeg)
-
-Pour sûr, il ne passe pas inaperçu avec ses 2,40 m d’envergure
+::
 
 Nous avons aussi eu la chance d’observer une loutre nageant entre les algues à quelques mètres de la côte, à la recherche d’un poisson ou coquillage à se mettre sous la dent.
 
@@ -70,11 +72,13 @@ Rester plus longtemps à un endroit fixe en Workaway est une manière différent
 
 Durant ce séjour, nous avons pu vivre des expériences assez folles, dont notamment marcher sur un lac entièrement gelé, assister à un coucher de soleil des plus époustouflants, manger du requin pêché le matin même et bien entendu, forger des liens avec de nouvelles personnes.
 
+::gallery
 ![](https://cdn-images-1.medium.com/max/400/1*2vE60VC4nBAhb882Xk8woQ.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/600/1*dHOFZsjdjypqqo2LblNZ4w.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/600/1*rJiWM4CLLGFSaDPSOi3P3A.jpeg)
+::
 
 Au final, le système Workaway propose moins d’aventure que la vie au jour le jour à base de Couchsurfing comme nous la vivons depuis le début de notre trip. Ce côté là nous manquait à tous les deux et nous ne sommes pas mécontents de partir, tout en emportant avec nous de très bons souvenirs de la maison bleue.
 

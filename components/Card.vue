@@ -2,11 +2,11 @@
 import Meta from "./Meta.vue";
 
 defineProps<{
-  title: String;
-  cover: String;
-  slug: String;
-  author: String;
-  date: String;
+  title: string;
+  cover: string;
+  slug: string;
+  author: "quentin" | "florian";
+  date: string;
 }>();
 </script>
 
@@ -31,9 +31,10 @@ defineProps<{
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  min-height: 30rem;
 }
 
-.card:hover {
+.card:hover .card-title {
   text-decoration: underline;
 }
 

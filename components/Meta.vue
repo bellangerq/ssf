@@ -2,7 +2,6 @@
 defineProps<{
   author: "quentin" | "florian";
   date: string;
-  theme: "light" | "dark";
 }>();
 
 function formatAuthor(author: string): string {
@@ -19,7 +18,7 @@ function formatDate(date: string): string {
 </script>
 
 <template>
-  <div :class="['meta', { dark: theme === 'dark' }]">
+  <div class="meta">
     <img class="picture" :src="`/images/authors/${author}.jpg`" alt="" />
     <p class="author">
       <span class="visually-hidden">Auteur : </span>{{ formatAuthor(author) }}
@@ -33,15 +32,12 @@ function formatDate(date: string): string {
 
 <style scoped>
 .meta {
+  color: var(--white);
   display: grid;
   grid-template-columns: 2.5rem 1fr;
   grid-template-rows: 1fr 1fr;
   align-items: center;
   gap: 0 0.5rem;
-}
-
-.meta.dark {
-  color: var(--white);
 }
 
 .picture {

@@ -2,11 +2,11 @@
 import Meta from "./Meta.vue";
 
 defineProps<{
-  cover: String;
-  title: String;
-  subtitle: String;
-  author: String;
-  date: String;
+  cover: string;
+  title: string;
+  description: string;
+  author: "quentin" | "florian";
+  date: string;
 }>();
 </script>
 
@@ -17,7 +17,7 @@ defineProps<{
         &larr; Retour à l’accueil
       </NuxtLink>
       <h1 class="post-hero-title">{{ title }}</h1>
-      <p class="post-hero-description">{{ subtitle }}</p>
+      <p class="post-hero-description">{{ description }}</p>
       <Meta :author="author" :date="date" />
     </div>
   </header>
@@ -63,7 +63,7 @@ defineProps<{
 
 @media (max-width: 37.5rem) {
   .post-hero-wrapper {
-    padding: 4rem 2rem;
+    padding: 4rem 1rem;
   }
 
   .post-hero-logo {

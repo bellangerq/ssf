@@ -1,6 +1,6 @@
 ---
 title: "Semelles sans frontières : suivez le récit d’un road trip en Europe"
-subtitle: "Rien de plus excitant de se dire que le moment tant attendu arrive."
+description: "Rien de plus excitant de se dire que le moment tant attendu arrive."
 cover: https://cdn-images-1.medium.com/max/1200/1*VQMUrXiY7eppjqQrQcDXIg.jpeg
 date: 2016-12-08
 author: "quentin"
@@ -18,6 +18,7 @@ Il y a également un grand besoin de découverte. Découvrir des modes de vies, 
 
 C’est vrai que l’idée est née en un instant et non d’une réflexion poussée. Ceci dit, il y avait aussi peut-être un besoin de fierté : se prouver chacun que l’on est capable de le faire. Que l’on est capable de se fixer un objectif et de se motiver l’un et l’autre pour le réaliser et aller plus loin.
 
+::gallery{caption="Première étape qui donne envie, non ?"}
 ![](https://cdn-images-1.medium.com/max/400/1*bAWyDv1RoyesiAnHIdByWw.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/400/1*5uz0RjvwejhXBVRoFNTCxA.jpeg)
@@ -27,8 +28,7 @@ C’est vrai que l’idée est née en un instant et non d’une réflexion pous
 ![](https://cdn-images-1.medium.com/max/600/1*e1Fy27teq3mtJY3AX7m_1Q.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/600/1*cP_W0Tfb29lbr35ESjtAUw.jpeg)
-
-Première étape qui donne envie, non ? [Unsplash](https://unsplash.com/)
+::
 
 ## Au programme…
 

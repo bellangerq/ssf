@@ -15,7 +15,7 @@ defineProps<{
     <h2 class="card-title">
       <NuxtLink class="card-link" :to="slug">{{ title }}</NuxtLink>
     </h2>
-    <Meta theme="dark" :author="author" :date="date" />
+    <Meta :author="author" :date="date" />
   </li>
 </template>
 

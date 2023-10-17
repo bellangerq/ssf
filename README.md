@@ -5,6 +5,7 @@ Website for **Semelles sans frontières** stories.
 ## To do
 
 - [ ] Add missing articles from F.
+- [ ] Verify links
 - [x] Style post content
 - [x] Create multiple photos component
 - [x] Double check articles HTML

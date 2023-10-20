@@ -13,4 +13,9 @@ export default defineNuxtConfig({
     global: true,
     dirs: ["~/components"],
   },
+  nitro: {
+    prerender: {
+      failOnError: false,
+    },
+  },
 });

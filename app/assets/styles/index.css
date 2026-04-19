@@ -12,6 +12,7 @@
   --color-outline: var(--color-primary);
 
   --site-width: 67.5rem;
+  --slug-width: 40rem;
 }
 
 body {

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { formatDate } from "~/utils";
+import PostMeta from "~/components/PostMeta.vue";
 
 const route = useRoute();
 const slug = route.params.slug as string;
@@ -28,14 +28,103 @@ useSeoMeta({
   <div>
     <PostHeader />
 
-    <main v-if="post">
-      <h1>Article {{ slug }}</h1>
-      <p>
-        Par {{ post.author }} | Le <time>{{ formatDate(post.date) }}</time>
-      </p>
-      <ContentRenderer class="post-body" :value="post" />
+    <main v-if="post" class="slug-wrapper">
+      <h1 class="slug-title">{{ post.title }}</h1>
+      <PostMeta class="slug-meta" :author="post.author" :date="post.date" />
+
+      <img class="slug-cover" :src="post.cover" alt="" />
+      <ContentRenderer class="slug-body" :value="post" />
 
       <SiblingsLinks :slug="slug" />
     </main>
   </div>
 </template>
+
+<style scoped>
+.slug-wrapper {
+  max-width: var(--site-width);
+  margin-inline: auto;
+  padding: 1rem;
+}
+
+.slug-title {
+  font-size: 2.5rem;
+  margin-block-end: 1rem;
+
+  @media (width < 37.5rem) {
+    font-size: 2rem;
+  }
+}
+
+.slug-meta {
+  margin-block-end: 1rem;
+}
+
+.slug-cover {
+  aspect-ratio: 16/9;
+  width: 100%;
+  object-fit: cover;
+  margin-block-end: 1rem;
+}
+
+.slug-body {
+  max-width: var(--slug-width);
+}
+
+.slug-body:deep(> * + *) {
+  margin-top: 1rem;
+}
+
+.slug-body:deep(h2) {
+  margin-top: 2.5rem;
+}
+.slug-body:deep(p) {
+  font-size: 1.25rem;
+}
+
+.slug-body:deep(a) {
+  color: var(--blue);
+}
+
+.slug-body:deep(a:hover) {
+  color: var(--color-primary);
+}
+
+.slug-body:deep(ul) {
+  padding-left: 1.5rem;
+}
+
+.slug-body:deep(li) {
+  font-size: 1.25rem;
+}
+
+.slug-body:deep(blockquote) {
+  border-left: 6px solid var(--blue);
+  padding-left: 1rem;
+  font-style: italic;
+}
+
+.slug-body:deep(iframe) {
+  width: 100%;
+}
+
+.slug-body:deep(> img) {
+  min-width: 100%;
+}
+
+.slug-body:deep(> hr) {
+  border: none;
+  border-bottom: 4px solid var(--blue);
+  margin: 4rem auto;
+  min-width: 6.25rem;
+  width: 20%;
+}
+
+@media (max-width: 50rem) {
+  .slug-body:deep(> img) {
+    width: 100vw;
+    max-width: none;
+    margin-left: calc(50% - 50vw);
+  }
+}
+</style>

@@ -37,6 +37,7 @@ const mapUrl =
   margin-block-end: 4rem;
 
   @media (width < 37.5rem) {
+    margin-block-end: 2rem;
     padding: 0.5rem;
   }
 }

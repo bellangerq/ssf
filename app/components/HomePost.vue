@@ -1,11 +1,12 @@
 <script setup lang="ts">
-import { formatDate } from "~/utils";
+import type { PostAuthor } from "~/utils";
+import PostMeta from "./PostMeta.vue";
 
 defineProps<{
   title: string;
   coverUrl: string;
   date: string;
-  author: string;
+  author: PostAuthor;
   path: string;
 }>();
 </script>
@@ -22,9 +23,12 @@ defineProps<{
           >{{ title }}</NuxtLink
         >
       </h2>
-      <p :id="`meta-${path}`" class="home-post-meta">
-        Par {{ author }}, le <time>{{ formatDate(date) }}</time>
-      </p>
+      <PostMeta
+        :id="`meta-${path}`"
+        class="home-post-meta"
+        :author="author"
+        :date="date"
+      />
     </div>
   </li>
 </template>
@@ -59,16 +63,19 @@ defineProps<{
 }
 
 .home-post-title {
+  font-size: 1.75rem;
   margin-block-end: 0.5rem;
+
+  @media (width < 37.5rem) {
+    font-size: 1.5rem;
+  }
 }
 
 .home-post-link {
-  color: var(--color-primary);
   outline: none;
 
   &:hover {
-    color: var(--color-primary-dark);
-    text-decoration: none;
+    color: var(--color-primary);
   }
 }
 

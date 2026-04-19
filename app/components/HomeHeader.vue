@@ -59,7 +59,7 @@ const mapUrl =
   }
 
   .home-header-logo {
-    height: 4rem;
+    aspect-ratio: 1/1;
     width: 4rem;
   }
 

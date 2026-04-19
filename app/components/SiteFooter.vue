@@ -19,7 +19,6 @@
   margin-inline: auto;
 
   a {
-    border-radius: 1rem;
     &:hover {
       text-decoration: none;
     }

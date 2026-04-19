@@ -26,6 +26,8 @@ body {
 }
 
 .button {
+  line-height: 1.5;
+  display: inline-block;
   font-weight: bold;
   padding: 0.5rem 1rem;
   background: var(--color-primary);
@@ -33,7 +35,7 @@ body {
   border-radius: 2rem;
   color: var(--color-white);
   text-decoration: none;
-  transition: 0.2s ease;
+  cursor: pointer;
 
   &:hover:not(.button-secondary) {
     border-color: var(--color-primary-dark);

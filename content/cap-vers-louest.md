@@ -10,7 +10,7 @@ C’est sous le soleil brûlant de Roumanie que nous commençons la route pour l
 
 ## Retrouvailles hongroises
 
-Peut-être vous rappelez vous de notre [séjour passé en Norvège à la Blue House](https://medium.com/semelles-sans-fronti%C3%A8res/bl%C3%A5tt-hus-da61c80fab66) en Workaway. Nous y étions restés deux semaines en compagnie de nos hôtes et de trois autres volontaires, dont Zsuzsanna. Et cette fois, nous nous retrouvons chez elle, en Hongrie pour quelques jours. Toujours le sourire aux lèvres et positive à 300%, Zsuzsanna est une personne humainement très riche en plus d’être une hôte formidable.
+Peut-être vous rappelez vous de notre [séjour passé en Norvège à la Blue House](/blatt-hus) en Workaway. Nous y étions restés deux semaines en compagnie de nos hôtes et de trois autres volontaires, dont Zsuzsanna. Et cette fois, nous nous retrouvons chez elle, en Hongrie pour quelques jours. Toujours le sourire aux lèvres et positive à 300%, Zsuzsanna est une personne humainement très riche en plus d’être une hôte formidable.
 
 > On dit qu’on rencontre toujours quelqu’un deux fois. C’était vrai pour cette fois, même si on espère que ça ne s’arrêtera pas là.
 

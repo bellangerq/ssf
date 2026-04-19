@@ -38,7 +38,7 @@ Et plus on s’aventurait dans les villes de ces trois pays et plus on rencontra
 
 ## Nos nuits de camping
 
-Ce changement de décor signifiait également pour nous un gros changement de saison. En termes de température, on est passé du -5°C finlandais au 15°C d’Europe de l’est en quelques jours. Et si vous vous souvenez, [on avait acheté du matériel de camping juste avant d’aller sur les îles Lofoten en Norvège](https://medium.com/semelles-sans-fronti%C3%A8res/arriv%C3%A9s-au-bout-du-monde-3621d205f813) mais nos expériences du camping restaient très… froides. Maintenant que les beaux jours sont là, on a poussé le camping game un peu plus loin et on peut désormais poser la tente où on veut pour passer quelques nuits dans la nature.
+Ce changement de décor signifiait également pour nous un gros changement de saison. En termes de température, on est passé du -5°C finlandais au 15°C d’Europe de l’est en quelques jours. Et si vous vous souvenez, [on avait acheté du matériel de camping juste avant d’aller sur les îles Lofoten en Norvège](/arrives-au-bout-du-monde) mais nos expériences du camping restaient très… froides. Maintenant que les beaux jours sont là, on a poussé le camping game un peu plus loin et on peut désormais poser la tente où on veut pour passer quelques nuits dans la nature.
 
 ::images-block
 ![](/passage-aux-pays-baltes/1*-g5QoJYjLkMP1zMIXIiKTg.jpeg)

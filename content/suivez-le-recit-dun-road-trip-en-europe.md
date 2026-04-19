@@ -46,8 +46,8 @@ Si vous aimez l’aventure, la découverte et le voyage : vous êtes au bon end
 
 Alors pour avoir des news, vous pouvez :
 
-- Ajouter [le blog](https://medium.com/semelles-sans-fronti%C3%A8res/) à vos favoris et le partager,
-- Suivre le [compte Instagram](https://www.instagram.com/bellanger_q/),
+- Ajouter ce blog à vos favoris et le partager,
+- ~Suivre le [compte Instagram](https://www.instagram.com/bellanger_q/)~,
 - Consulter [notre itinéraire et nos étapes](https://drive.google.com/open?id=1LgEcJ9IDXbzOeFkndmmcSyjn7U4&usp=sharing) sur Google Map (_avec les premières étapes du parcours_)
 
 ---

@@ -6,6 +6,14 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   modules: ["@nuxt/content", "@nuxtjs/google-fonts", "@nuxt/eslint"],
   content: {
+    build: {
+      markdown: {
+        contentHeading: false,
+        rehypePlugins: {
+          "rehype-unwrap-images": {}
+        }
+      }
+    },
     experimental: { nativeSqlite: true },
     renderer: {
       anchorLinks: false

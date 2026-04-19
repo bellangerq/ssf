@@ -33,7 +33,7 @@ useSeoMeta({
       <p>
         Par {{ post.author }} | Le <time>{{ formatDate(post.date) }}</time>
       </p>
-      <ContentRenderer :value="post" />
+      <ContentRenderer class="post-body" :value="post" />
 
       <SiblingsLinks :slug="slug" />
     </main>

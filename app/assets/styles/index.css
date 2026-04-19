@@ -1,5 +1,52 @@
 @import url("./reset.css");
 
+:root {
+  --color-primary: hsl(204, 64%, 44%);
+  --color-primary-dark: hsl(204, 64%, 30%);
+  --color-grey-light: #bfbfbf;
+  --color-grey: #717171;
+
+  --color-white: #ffffff;
+  --color-black: #000000;
+
+  --color-outline: var(--color-primary);
+
+  --site-width: 67.5rem;
+}
+
 body {
+  color: var(--color-black);
   font-family: Spectral;
+  margin: 0;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--color-outline);
+  outline-offset: 2px;
+}
+
+.button {
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  background: var(--color-primary);
+  border: 2px solid var(--color-primary);
+  border-radius: 2rem;
+  color: var(--color-white);
+  text-decoration: none;
+  transition: 0.2s ease;
+
+  &:hover:not(.button-secondary) {
+    border-color: var(--color-primary-dark);
+    background-color: var(--color-primary-dark);
+  }
+}
+
+.button-secondary {
+  background-color: var(--color-white);
+  color: var(--color-primary);
+
+  &:hover {
+    border-color: var(--color-primary-dark);
+    color: var(--color-primary-dark);
+  }
 }

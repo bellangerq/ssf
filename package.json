@@ -15,6 +15,7 @@
     "@nuxt/content": "^3.13.0",
     "@nuxtjs/google-fonts": "3.2.0",
     "nuxt": "^4.4.2",
+    "rehype-unwrap-images": "^1.0.0",
     "vue": "^3.5.32",
     "vue-router": "^5.0.4"
   },

@@ -5926,6 +5926,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"hast-util-interactive@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "hast-util-interactive@npm:3.0.0"
+  dependencies:
+    "@types/hast": "npm:^3.0.0"
+    hast-util-has-property: "npm:^3.0.0"
+  checksum: 10c0/c864189f4b9ebf8493f4b5b61e9cd2b5b4aa48b5574f06688c77104c9f2209e500ac9fce56058591fe8245dece4efb415614ae5e291298c05ce66177c576e2a6
+  languageName: node
+  linkType: hard
+
 "hast-util-is-body-ok-link@npm:^3.0.0":
   version: 3.0.1
   resolution: "hast-util-is-body-ok-link@npm:3.0.1"
@@ -9341,6 +9351,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"rehype-unwrap-images@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "rehype-unwrap-images@npm:1.0.0"
+  dependencies:
+    "@types/hast": "npm:^3.0.0"
+    hast-util-interactive: "npm:^3.0.0"
+    hast-util-whitespace: "npm:^3.0.0"
+    unist-util-visit: "npm:^5.0.0"
+  checksum: 10c0/e7b5a73a2a794ca4c2847561cf182d60f155aa3bc43e50cccb3b48d6bc5478a70ae8e610bf1f0ef7c730ffa06c8946edd0e82c91cbcbd1a382e1c485cee48643
+  languageName: node
+  linkType: hard
+
 "remark-emoji@npm:^5.0.2":
   version: 5.0.2
   resolution: "remark-emoji@npm:5.0.2"
@@ -10029,6 +10051,7 @@ __metadata:
     eslint: "npm:^10.2.1"
     nuxt: "npm:^4.4.2"
     prettier: "npm:^3.8.3"
+    rehype-unwrap-images: "npm:^1.0.0"
     typescript: "npm:^6.0.3"
     vue: "npm:^3.5.32"
     vue-router: "npm:^5.0.4"

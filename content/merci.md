@@ -12,7 +12,7 @@ Déjà deux mois jour pour jour que le voyage est terminé et que nous sommes re
 
 Comment avons nous fait pour voyager six mois avec un budget de 3000€ chacun ? Avant de partir, nous nous sommes basés sur un budget de 500 € par mois chacun, ce qui fait sur 6 mois 3000 € par personne. Nous avons réussi à respecter ce planning sur toute la longueur du voyage. Ce qui est cher dans un voyage c’est bien sûr les déplacements l’hébergement et la nourriture. Si vous choisissez de voyager en stop et de vivre chez l’habitant avec l’option camping sauvage, vous diminuez grandement les coûts. Bien sûr en adaptant aux pays, à la saison, au style de voyage recherché et au budget de chacun.
 
-![](https://cdn-images-1.medium.com/max/800/1*MX5VJrzhkc3_Jg4B2nMPmA.jpeg)
+![](/merci/1*MX5VJrzhkc3_Jg4B2nMPmA.jpeg)
 
 _Extrait de notre tableau de dépenses_
 
@@ -32,9 +32,9 @@ Total : 4000 €
 En souvenir de leur générosité, nous avons scrupuleusement écrit et gardé les noms de toutes les personnes nous ayant soit pris en stop, soit hébergés ou les deux et sans qui le voyage n’aurait pas été possible. Merci à eux !
 
 ::images-block
-![](https://cdn-images-1.medium.com/max/1200/1*EASQqlCN-UjYWxa3NXWlCQ.png)
+![](/merci/1*EASQqlCN-UjYWxa3NXWlCQ.png)
 
-![](https://cdn-images-1.medium.com/max/1200/1*c-Ln3b7H4JoqwhIrftDfyg.png)
+![](/merci/1*c-Ln3b7H4JoqwhIrftDfyg.png)
 ::
 
 ## Parcours et itinéraire
@@ -102,4 +102,4 @@ En souvenir de leur générosité, nous avons scrupuleusement écrit et gardé l
 
 > Quentin.
 
-![](https://cdn-images-1.medium.com/max/1200/1*oGvfNNmHbLFmRWlA0bq2dw.jpeg)
+![](/merci/1*oGvfNNmHbLFmRWlA0bq2dw.jpeg)

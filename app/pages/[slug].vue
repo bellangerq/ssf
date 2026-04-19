@@ -32,7 +32,7 @@ useSeoMeta({
       <h1 class="slug-title">{{ post.title }}</h1>
       <PostMeta class="slug-meta" :author="post.author" :date="post.date" />
 
-      <img class="slug-cover" :src="post.cover" alt="" />
+      <img class="slug-cover" :src="`/${slug}/cover.jpeg`" alt="" />
       <ContentRenderer class="slug-body" :value="post" />
 
       <SiblingsLinks :slug="slug" />

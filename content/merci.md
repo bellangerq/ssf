@@ -1,7 +1,6 @@
 ---
 title: "Merci !"
 description: "2 mois après, retour sur notre voyage"
-cover: https://cdn-images-1.medium.com/max/2560/1*jTOGGkPf3UZKBt0rrG2zsQ.png
 date: 2017-09-19
 author: "Quentin Bellanger"
 ---

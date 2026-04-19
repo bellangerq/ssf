@@ -1,7 +1,6 @@
 ---
 title: "Arrivés au bout du monde"
 description: "A travers la Norvège du Nord, jusqu’au sommet de l’Europe"
-cover: https://cdn-images-1.medium.com/max/1200/1*5NhpCwkUTcuQGtlL-Vg6Jg.jpeg
 date: 2017-04-09
 author: "Quentin Bellanger"
 ---

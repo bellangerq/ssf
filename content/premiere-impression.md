@@ -1,7 +1,6 @@
 ---
 title: "Première impression"
 description: "Seulement 10 jours et tant de choses à raconter…"
-cover: https://cdn-images-1.medium.com/max/800/1*qBOnCG4uNqa-QRl618aB9Q.jpeg
 date: 2017-01-26
 author: "Quentin Bellanger"
 ---

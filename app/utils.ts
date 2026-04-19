@@ -18,7 +18,6 @@ export function formatDate(dateString: string): string {
 export const postSchema = z.object({
   title: z.string(),
   description: z.string(),
-  cover: z.string(),
   date: z.date(),
   author: z.enum(["Quentin Bellanger", "Florian Deblaise"])
 });

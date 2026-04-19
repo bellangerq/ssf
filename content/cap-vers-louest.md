@@ -1,7 +1,6 @@
 ---
 title: "Cap vers l’Ouest"
 description: "Dans quatre nouveaux pays"
-cover: https://cdn-images-1.medium.com/max/1200/1*_d0dKIXvXPsmeaZh9OanFA.jpeg
 date: 2017-07-12
 author: "Quentin Bellanger"
 ---

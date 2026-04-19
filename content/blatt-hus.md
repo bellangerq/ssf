@@ -1,7 +1,6 @@
 ---
 title: "Blått hus 🏡"
 description: "Expérience avec notre première famille d’accueil en Workaway"
-cover: https://cdn-images-1.medium.com/max/1200/1*8amsdgFT-oRw7xPen84Iqg.jpeg
 date: 2017-02-21
 author: "Quentin Bellanger"
 ---

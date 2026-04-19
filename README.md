@@ -4,12 +4,14 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## To do
 
-- Importer toutes les articles
-- Importer les images des articles dans les bons dossier (Medium-Post-Downloader + `script/markdown-images.js`)
-- Importer les cover des articles (manuellement ?)
-- Vérifier les liens entre les articles (Recherche : `https://medium.com/semelles`)
-- Vérifier les ImagesBlock des stories de Florian
+- Importer les articles manquants :
+  - Importer les images des articles dans les bons dossier (Medium-Post-Downloader + `script/markdown-images.js`)
+  - Vérifier les liens entre les articles (Recherche : `https://medium.com/semelles`)
+  - Vérifier les ImagesBlock des stories de Florian
+  - Télécharger les cover des articles et les mettre en jpeg
 - Créer un composant prev / next
+- MAJ du favicon
+- Optimiser les images (format AVIF, lazy loading?)
 
 ## Setup
 

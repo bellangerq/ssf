@@ -1,7 +1,6 @@
 ---
 title: "Semelles sans frontières : suivez le récit d’un road trip en Europe"
 description: "Rien de plus excitant de se dire que le moment tant attendu arrive."
-cover: https://cdn-images-1.medium.com/max/1200/1*VQMUrXiY7eppjqQrQcDXIg.jpeg
 date: 2016-12-08
 author: "Quentin Bellanger"
 ---

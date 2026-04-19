@@ -4,7 +4,6 @@ import PostMeta from "./PostMeta.vue";
 
 defineProps<{
   title: string;
-  coverUrl: string;
   date: string;
   author: PostAuthor;
   path: string;
@@ -13,7 +12,7 @@ defineProps<{
 
 <template>
   <li class="home-post">
-    <img class="home-post-image" :src="coverUrl" alt="" />
+    <img class="home-post-image" :src="`/${path}/cover.jpeg`" alt="" />
     <div class="home-post-content">
       <h2 class="home-post-title">
         <NuxtLink

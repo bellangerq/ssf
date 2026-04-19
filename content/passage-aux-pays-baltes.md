@@ -1,7 +1,6 @@
 ---
 title: "Passage aux pays baltes"
 description: "Estonie, Lettonie, Lituanie : découverte de la culture baltique"
-cover: https://cdn-images-1.medium.com/max/1200/1*O9JDVUDlyB-O_VcdXw3rww.jpeg
 date: 2017-05-24
 author: "Quentin Bellanger"
 ---

@@ -4,7 +4,12 @@ import { defineNuxtConfig } from "nuxt/config";
 export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
   devtools: { enabled: false },
-  modules: ["@nuxt/content", "@nuxtjs/google-fonts", "@nuxt/eslint"],
+  modules: [
+    "@nuxt/content",
+    "@nuxtjs/google-fonts",
+    "@nuxt/eslint",
+    "@nuxt/image"
+  ],
   content: {
     build: {
       markdown: {
@@ -33,14 +38,14 @@ export default defineNuxtConfig({
       title: "Semelles sans frontières 👣",
       titleTemplate: "%s | Semelles sans frontières 👣",
       meta: [
-        { property: "og:title", content: "Semelles sans frontières 👣" },
+        { name: "og:title", content: "Semelles sans frontières 👣" },
         {
-          property: "description",
+          name: "description",
           content:
             "Parcours d’un voyage à travers l’Europe : changer nos quotidiens, découvrir de nouveaux horizons et vous partager nos histoires"
         },
         {
-          property: "og:description",
+          name: "og:description",
           content:
             "Parcours d’un voyage à travers l’Europe : changer nos quotidiens, découvrir de nouveaux horizons et vous partager nos histoires"
         }

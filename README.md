@@ -1,6 +1,6 @@
-# Semelles sans frontières (SSF)
+# Semelles sans frontières 🌍
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Travel blog: https://ssf.quentin-bellanger.com/
 
 ## To do
 
@@ -10,12 +10,10 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
   - Vérifier les ImagesBlock des stories de Florian
   - Télécharger les cover des articles et les mettre en jpeg
 - Créer un composant prev / next
-- MAJ du favicon
-- Optimiser les images (format AVIF, lazy loading?)
 
 ## Setup
 
-Make sure to install dependencies:
+Install dependencies:
 
 ```bash
 yarn install
@@ -29,18 +27,6 @@ Start the development server on `http://localhost:3000`:
 yarn dev
 ```
 
-## Production
+## Deployment
 
-Build the application for production:
-
-```bash
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Each push on `main` deploys a build with Netlify as a static website.

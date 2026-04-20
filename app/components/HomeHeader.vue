@@ -25,9 +25,9 @@ const mapUrl =
         }"
         >Lire la genèse du projet</NuxtLink
       >
-      <NuxtLink class="button button-secondary" :to="mapUrl"
-        >Découvrir l’itinéraire</NuxtLink
-      >
+      <NuxtLink class="button button-secondary" target="_blank" :to="mapUrl">
+        Découvrir l’itinéraire
+      </NuxtLink>
     </div>
   </header>
 </template>

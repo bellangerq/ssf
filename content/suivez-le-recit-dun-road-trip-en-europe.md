@@ -18,15 +18,15 @@ Il y a également un grand besoin de découverte. Découvrir des modes de vies, 
 C’est vrai que l’idée est née en un instant et non d’une réflexion poussée. Ceci dit, il y avait aussi peut-être un besoin de fierté : se prouver chacun que l’on est capable de le faire. Que l’on est capable de se fixer un objectif et de se motiver l’un et l’autre pour le réaliser et aller plus loin.
 
 ::images-block{caption="Première étape qui donne envie, non ?"}
-![](/suivez-le-recit-dun-road-trip-en-europe/1*bAWyDv1RoyesiAnHIdByWw.jpeg)
+![](/suivez-le-recit-dun-road-trip-en-europe/bAWyDv1RoyesiAnHIdByWw.jpeg)
 
-![](/suivez-le-recit-dun-road-trip-en-europe/1*5uz0RjvwejhXBVRoFNTCxA.jpeg)
+![](/suivez-le-recit-dun-road-trip-en-europe/5uz0RjvwejhXBVRoFNTCxA.jpeg)
 
-![](/suivez-le-recit-dun-road-trip-en-europe/1*6OxLviJzJyRXtptFgK4Ojw.jpeg)
+![](/suivez-le-recit-dun-road-trip-en-europe/6OxLviJzJyRXtptFgK4Ojw.jpeg)
 
-![](/suivez-le-recit-dun-road-trip-en-europe/1*e1Fy27teq3mtJY3AX7m_1Q.jpeg)
+![](/suivez-le-recit-dun-road-trip-en-europe/e1Fy27teq3mtJY3AX7m_1Q.jpeg)
 
-![](/suivez-le-recit-dun-road-trip-en-europe/1*cP_W0Tfb29lbr35ESjtAUw.jpeg)
+![](/suivez-le-recit-dun-road-trip-en-europe/cP_W0Tfb29lbr35ESjtAUw.jpeg)
 ::
 
 ## Au programme…
@@ -51,7 +51,7 @@ Alors pour avoir des news, vous pouvez :
 
 ---
 
-![](/suivez-le-recit-dun-road-trip-en-europe/1*kSTjA3emR9m-WvTExnsezQ.jpeg)
+![](/suivez-le-recit-dun-road-trip-en-europe/kSTjA3emR9m-WvTExnsezQ.jpeg)
 
 Beaucoup de démerde donc, de rencontres et de découvertes.
 

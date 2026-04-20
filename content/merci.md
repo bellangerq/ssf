@@ -11,7 +11,7 @@ Déjà deux mois jour pour jour que le voyage est terminé et que nous sommes re
 
 Comment avons nous fait pour voyager six mois avec un budget de 3000€ chacun ? Avant de partir, nous nous sommes basés sur un budget de 500 € par mois chacun, ce qui fait sur 6 mois 3000 € par personne. Nous avons réussi à respecter ce planning sur toute la longueur du voyage. Ce qui est cher dans un voyage c’est bien sûr les déplacements l’hébergement et la nourriture. Si vous choisissez de voyager en stop et de vivre chez l’habitant avec l’option camping sauvage, vous diminuez grandement les coûts. Bien sûr en adaptant aux pays, à la saison, au style de voyage recherché et au budget de chacun.
 
-![](/merci/1*MX5VJrzhkc3_Jg4B2nMPmA.jpeg)
+![](/merci/MX5VJrzhkc3_Jg4B2nMPmA.jpeg)
 
 _Extrait de notre tableau de dépenses_
 
@@ -31,16 +31,16 @@ Total : 4000 €
 En souvenir de leur générosité, nous avons scrupuleusement écrit et gardé les noms de toutes les personnes nous ayant soit pris en stop, soit hébergés ou les deux et sans qui le voyage n’aurait pas été possible. Merci à eux !
 
 ::images-block
-![](/merci/1*EASQqlCN-UjYWxa3NXWlCQ.png)
+![](/merci/EASQqlCN-UjYWxa3NXWlCQ.png)
 
-![](/merci/1*c-Ln3b7H4JoqwhIrftDfyg.png)
+![](/merci/c-Ln3b7H4JoqwhIrftDfyg.png)
 ::
 
 ## Parcours et itinéraire
 
 À travers des pays froids comme la Norvège ou chauds comme l’Italie, à travers des pays méconnus comme l’Ukraine ou plus familiers comme l’Allemagne, le voyage a été riche en découverte puisqu’en arpentant 19 pays, nous avons parcouru pas moins de 12528 km ! Mais pour avoir une idée plus précise du parcours effectué, voici l’itinéraire que nous avons suivi durant ces six mois de périple :
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1LgEcJ9IDXbzOeFkndmmcSyjn7U4&amp;hl=en_US" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1LgEcJ9IDXbzOeFkndmmcSyjn7U4&amp;hl=en_US" width="600" height="500" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
 - France 🇫🇷 • 16 janvier 9h30
 - Belgique 🇧🇪 : 17 janvier 11h37
@@ -101,4 +101,4 @@ En souvenir de leur générosité, nous avons scrupuleusement écrit et gardé l
 
 > Quentin.
 
-![](/merci/1*oGvfNNmHbLFmRWlA0bq2dw.jpeg)
+![](/merci/oGvfNNmHbLFmRWlA0bq2dw.jpeg)

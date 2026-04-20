@@ -4,12 +4,7 @@ import { defineNuxtConfig } from "nuxt/config";
 export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
   devtools: { enabled: false },
-  modules: [
-    "@nuxt/content",
-    "@nuxtjs/google-fonts",
-    "@nuxt/eslint",
-    "@nuxt/image"
-  ],
+  modules: ["@nuxt/content", "@nuxtjs/google-fonts", "@nuxt/eslint"],
   content: {
     build: {
       markdown: {

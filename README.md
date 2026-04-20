@@ -9,7 +9,6 @@ Travel blog: https://ssf.quentin-bellanger.com/
   - Vérifier les liens entre les articles (Recherche : `https://medium.com/semelles`)
   - Vérifier les ImagesBlock des stories de Florian
   - Télécharger les cover des articles et les mettre en jpeg
-- Créer un composant prev / next
 
 ## Setup
 

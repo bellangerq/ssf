@@ -37,6 +37,7 @@ body {
   color: var(--color-white);
   text-decoration: none;
   cursor: pointer;
+  text-align: center;
 
   &:hover:not(.button-secondary) {
     border-color: var(--color-primary-dark);
@@ -52,4 +53,15 @@ body {
     border-color: var(--color-primary-dark);
     color: var(--color-primary-dark);
   }
+}
+
+.visually-hidden {
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }

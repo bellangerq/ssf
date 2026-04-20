@@ -69,6 +69,7 @@ useSeoMeta({
 
 .slug-body {
   max-width: var(--slug-width);
+  margin-block-end: 2rem;
 
   &:deep(> * + *) {
     margin-top: 1rem;

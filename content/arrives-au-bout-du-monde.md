@@ -11,7 +11,7 @@ Ces îles résonnaient dans nos têtes comme le paradis sur terre, chaque person
 
 Après plusieurs recherches dans les magasins de sport et prises d’information sur internet, nous choisissons une tente 3 places, deux matelas gonflables et un duvet pour Florian. Pour tout notre matériel, la qualité y est (_normal c’est norvégien_) mais le prix aussi. Le coup total est d’environ 500 €. Mais cet investissement essentiel sera rentabilisé durant le voyage.
 
-![](/arrives-au-bout-du-monde/-JNwSM0vlOaA2PTLb4A7xw.jpeg)
+![](/arrives-au-bout-du-monde/2JNwSM0vlOaA2PTLb4A7xw.jpeg)
 
 Il est 16h30 quand nous quittons la ville de Bodø à bord du ferry _Landegode,_ pour rejoindre le port de Moskenes dans le sud-est de l’île. La traversée durera quatre heures. Pendant ce temps, un coucher de soleil splendide s’offre à nous.
 A mi-chemin, la mer commençait à s’agiter et la proue du navire claquait contre les vagues. Les allers et retours des passagers vers les toilettes et le bruit des assiettes du retaurant qui tombaient à la renverse nous laissait quelque peu mal à l’aise.
